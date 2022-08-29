@@ -26,4 +26,4 @@ Une comparaison a été effectuée entre les deux approches.
 
 Par ailleurs, deux APIs ont été développées pour effectuer la prédiction de tags :
 - une sur FastAPI dont le GitHub est disponible [ici]()
-- une sur [Streamlit]() dont le GitHub est disponible [ici]()
+- une sur [Streamlit]() dont le GitHub est disponible [ici](https://github.com/MarieFrance119/OCR_P5_Tag_Predictions_API)
